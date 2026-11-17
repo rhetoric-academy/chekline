@@ -4,4 +4,4 @@ compatibility_date = "2025-01-01"
 
 [[kv_namespaces]]
 binding = "LOGS"
-id = "ضع_هنا_معرّف_KV"   # ← استبدل هذا السطر بالمعرّف الذي تنسخه من Cloudflare (الخطوة 6 في README)
+id = "f2ffc4efac6c40e0b72aa35e79ef0dd9"
